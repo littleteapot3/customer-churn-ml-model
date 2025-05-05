@@ -4,7 +4,7 @@ This project forecasts whether a customer will leave Interconnect, a telecom pro
 
 ## 🗂️ Project Structure
 - `notebook.ipynb`: Contains all EDA, preprocessing, and modeling steps
-- `data/`: Folder containing the four original CSV files
+- `datasets/`: Folder containing the four original CSV files
 - `report.md`: Summary report prepared for the team leader
 - `README.md`: Project overview
 
